@@ -110,6 +110,8 @@ namespace antokhio.UWP.UserControls
                             }
                         case "{tab}":
                             {
+                                FocusManager.TryMoveFocus(FocusNavigationDirection.Next);
+
                                 break;
                             }
                         case "{enter}":
