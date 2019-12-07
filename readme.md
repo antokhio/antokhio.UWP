@@ -12,4 +12,4 @@ Layouts adjustable for switching language, multilanguage will need extra work su
 Right now, will work only with same number of buttons for both layouts.
 
 *Known bug: Tab looses focus after passing last element*
-*Known bug: Proper selection handling*
+Known bug: Proper selection handling*
