@@ -11,5 +11,6 @@ Currently works with two layouts, normal and CAPS.
 Layouts adjustable for switching language, multilanguage will need extra work support.
 Right now, will work only with same number of buttons for both layouts.
 
-*Known bug: Tab looses focus after passing last element
-Known bug: Proper selection handling*
+*Known bug: Tab looses focus after passing last element*
+
+*Known bug: Proper selection handling*
